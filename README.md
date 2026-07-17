@@ -1,7 +1,7 @@
 # Hi, I'm Aarohi Mehta 👋
 
 🎓 MBA (Strategy & Supply Chain) — SPJIMR  
-💼 7 years @ Accenture | Supply Chain Analytics  
+💼  Accenture | Supply Chain Analytics  
 📍 Delhi NCR, India  
 
 I build data solutions at the intersection of **supply chain 
