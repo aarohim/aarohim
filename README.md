@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aarohi Mehta 👋
 
-<!--
-**aarohim/aarohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA (Strategy & Supply Chain) — SPJIMR  
+💼 7 years @ Accenture | Supply Chain Analytics  
+📍 Delhi NCR, India  
 
-Here are some ideas to get you started:
+I build data solutions at the intersection of **supply chain 
+domain expertise** and **machine learning** — solving problems 
+I have seen cause real business pain in S&OP, demand planning, 
+and supplier management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+**Languages:** Python · SQL  
+**Analytics & ML:** Pandas · Scikit-learn · XGBoost · Prophet  
+**Visualisation:** Power BI · Matplotlib · Seaborn  
+**Domain Tools:** SAP · QlikView  
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Tools |
+|---|---|---|
+| [Amazon Seller Churn](link) | Logistic regression on 3P seller behaviour on Amazon.in | Python · Statsmodels |
+| [Demand Forecasting](#) | Coming soon | Python · Prophet · XGBoost |
+| [Supplier Risk Model](#) | Coming soon | Python · Scikit-learn |
